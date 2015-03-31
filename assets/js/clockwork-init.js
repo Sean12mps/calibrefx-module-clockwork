@@ -1,0 +1,1 @@
+childfx.init( 'test_function' );
