@@ -1,0 +1,55 @@
+
+body {
+	background: inherit;
+}
+
+.clockwork-hook {
+
+	padding: 0px 0px 20px 0px;
+	margin-bottom: 20px;
+}
+
+.form-header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #ddd;
+	border-top: 1px #ccc solid;
+}
+
+.form-header,
+.form-content {
+	border-left: 1px #ccc solid;
+	border-right: 1px #ccc solid;
+}
+
+.form-header .glyphicon {
+	margin: 0px;
+	font-size: 2em;
+	text-align: center;
+	cursor: pointer;
+}
+
+.form-header input,
+.form-header select,
+.form-content input {
+	width: 100%;
+}
+
+
+.form-content {
+	padding-top: 20px;
+	border-bottom: 1px #ccc solid;
+	padding-bottom: 20px;
+}
+
+
+.interface_action {
+	border-top: 6px #666 solid; 
+	border-bottom: 6px #666 solid; 
+	width: 100%
+}
+
+.interface_action p {
+	padding: 20px 0px;
+	margin: 0px;
+}
